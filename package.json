@@ -25,6 +25,7 @@
   "homepage": "https://github.com/agonsant/demo-express-configs#readme",
   "devDependencies": {
     "@types/debug": "^4.1.7",
+    "@types/dotenv": "^8.2.0",
     "@types/express": "^4.17.17",
     "@types/jest": "^29.4.0",
     "@types/node": "^18.14.0",
