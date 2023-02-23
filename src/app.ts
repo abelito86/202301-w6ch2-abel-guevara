@@ -6,7 +6,7 @@ import apiRouter from './api/api-router.js';
 
 const debug = debugCreator('server');
 const app = express();
-const port = process.env.PORT ?? 3000;
+const port = 3000;
 
 app.use(express.json());
 app.use('/api/v1', apiRouter);
